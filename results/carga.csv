@@ -1,0 +1,5 @@
+estrategia,modo,n_peticiones,p50_ms,p95_ms,p99_ms,throughput_rps
+Lista plana (antes),secuencial,20000,0.0888,0.181,0.2935,10619.0
+Índice hash (después),secuencial,20000,0.0003,0.0005,0.0007,1982377.0
+Lista plana (antes),concurrente x500,25000,0.0931,0.2098,0.3478,9616.0
+Índice hash (después),concurrente x500,25000,0.0004,0.0008,0.0017,637354.0

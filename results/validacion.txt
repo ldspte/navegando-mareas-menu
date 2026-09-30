@@ -1,0 +1,5 @@
+objetivo: Capuchino
+migas: Carta > Bebidas calientes > Capuchino
+ticket: ['Capuchino']
+total: 6500
+validacion_ok: True
